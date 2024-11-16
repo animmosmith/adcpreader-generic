@@ -1,5 +1,8 @@
 |PyPI version| |Docs badge| |License|
 
+
+Forked from https://github.com/smerckel/adcpreader with the intention of making a more generic version to handle non-RDI data files
+
 ADCPREADER - A python3 module for reading RDI's ADCP binary data files.
 =======================================================================
 
